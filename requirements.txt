@@ -3,5 +3,5 @@ torch
 torchvision
 numpy
 Pillow
-opencv-python
+opencv-python-headless
 scipy
