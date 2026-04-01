@@ -3,3 +3,4 @@ torchvision
 streamlit
 numpy
 Pillow
+cv2
